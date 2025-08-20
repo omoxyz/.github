@@ -1,6 +1,6 @@
 # Omoxyz
 
-![](./logo.svg)
+![](./assets/logo.svg)
 
 **Technology You Deserve**  
 
