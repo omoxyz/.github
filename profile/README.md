@@ -1,3 +1,3 @@
 # Omoxyz
 
-![](./assets/logo.svg)
+Technologies built for you.
